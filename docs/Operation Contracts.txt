@@ -1,0 +1,29 @@
+Operation Contract Templates:
+
+Operation:	newEvent(time:Date, description:String)
+References:	User Cases:	Create new event
+
+Pre Conditions:		
+					User must be connected to the server
+					User must be logged on to the system
+				
+Post Conditions:	
+					An Event instance event was created (instance creation)
+					event.ID is uniqe (Primary key established)
+					event is associated with a Calendar, based on the users ID (association formed)
+					event.description becomes description (attribute modefication)
+					
+					
+Operation:	updateEvent(event:Event, command:String)
+References:	User Cases:	Edit event, Delete event
+
+Pre Conditions:
+					User must be connected to the server
+					User must be logged on to the system
+					An exitsing Event must be selected
+					
+					
+Post Conditions:
+					The incomming command has been executed on the target Event (instance modification)
+					
+					
