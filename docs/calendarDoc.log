@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  25 SEP 2012 17:36
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  25 SEP 2012 17:47
 entering extended mode
 **calendarDoc.tex
 (C:\Users\Mark\Documents\GitHub\CalendarSystem\docs\calendarDoc.tex
@@ -30,145 +30,215 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
 (C:\Users\Mark\Documents\GitHub\CalendarSystem\docs\calendarDoc.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--41
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\everyMPtoPDFconversion=\toks16
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--72
+Underfull \hbox (badness 10000) in paragraph at lines 43--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--104
+Underfull \hbox (badness 10000) in paragraph at lines 74--105
 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 105--136
+Underfull \hbox (badness 10000) in paragraph at lines 106--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--167
+Underfull \hbox (badness 10000) in paragraph at lines 138--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--199
+Underfull \hbox (badness 10000) in paragraph at lines 169--200
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 233--237
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 238.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 239.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 238.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 239.
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--248
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--254
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--261
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--261
+Underfull \hbox (badness 10000) in paragraph at lines 256--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--261
+Underfull \hbox (badness 10000) in paragraph at lines 256--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 256--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--287
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
 
  []
 
-[3] [4] (C:\Users\Mark\Documents\GitHub\CalendarSystem\docs\calendarDoc.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--288
+
+ []
+
+[3] <./domainmodel.jpg, id=15, 3276.24pt x 2457.18pt>
+File: ./domainmodel.jpg Graphic file (type jpg)
+ <use ./domainmodel.jpg>
+Package pdftex.def Info: ./domainmodel.jpg used on input line 291.
+(pdftex.def)             Requested size: 241.49895pt x 181.0936pt.
+
+<./ssd.jpg, id=16, 3276.24pt x 2457.18pt>
+File: ./ssd.jpg Graphic file (type jpg)
+ <use ./ssd.jpg>
+Package pdftex.def Info: ./ssd.jpg used on input line 292.
+(pdftex.def)             Requested size: 241.49895pt x 181.0936pt.
+
+<./ssd2.jpg, id=17, 3276.24pt x 2457.18pt>
+File: ./ssd2.jpg Graphic file (type jpg)
+ <use ./ssd2.jpg>
+Package pdftex.def Info: ./ssd2.jpg used on input line 293.
+(pdftex.def)             Requested size: 241.49895pt x 181.0936pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--294
+
+ []
+
+[4 <C:/Users/Mark/Documents/GitHub/CalendarSystem/docs/domainmodel.jpg>]
+[5 <C:/Users/Mark/Documents/GitHub/CalendarSystem/docs/ssd.jpg> <C:/Users/Mark/
+Documents/GitHub/CalendarSystem/docs/ssd2.jpg>]
+(C:\Users\Mark\Documents\GitHub\CalendarSystem\docs\calendarDoc.aux) ) 
 Here is how much of TeX's memory you used:
- 226 strings out of 494049
- 2878 string characters out of 3146069
- 53862 words of memory out of 3000000
- 3594 multiletter control sequences out of 15000+200000
+ 1131 strings out of 494049
+ 15231 string characters out of 3146069
+ 67658 words of memory out of 3000000
+ 4462 multiletter control sequences out of 15000+200000
  4553 words of font info for 17 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 23i,5n,19p,335b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
-<
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on calendarDoc.pdf (4 pages, 64713 bytes).
+ 27i,5n,21p,335b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on calendarDoc.pdf (5 pages, 4717966 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
