@@ -5,22 +5,8 @@ using System.Text;
 
 namespace CalendarSystem
 {
-    class DBConnector
+    static class DBConnector
     {
-        private static DBConnector instance;
-
-        private DBConnector(){ }
-
-        public static DBConnector Instance
-        {
-            get
-            {
-                if (instance == null)
-                {
-                    instance = new DBConnector();
-                }
-                return instance;
-            }
-        }
+        
     }
 }
