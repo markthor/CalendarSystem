@@ -1,4 +1,5 @@
 \documentclass[a4paper,10pt,titlepage]{article}
+\setlength{\parindent}{0in}
 \begin{document}
 \section{Glossery}
 	\textbf{Event}
@@ -256,8 +257,35 @@
 	\\ \\
 	\textbf{Supportability:}
 	Functions shall be supported with a help page. The content should be limited because the intuitiveness and limited functionality makes it needless.
-	\\
-
+	\\ \\
+\section{Operation Contracts}
+	\textbf{Operation:}	newEvent(time:Date, description:String)
+	\\ \\
+	\textbf{References:}	User Cases:	Create new event
+	\\ \\
+	\textbf{Pre Conditions:}		
+						User must be connected to the server
+						User must be logged on to the system
+					\\ \\
+	\textbf{Post Conditions:}	
+						An Event instance event was created (instance creation)
+						event.ID is uniqe (Primary key established)
+						event is associated with a Calendar, based on the users ID (association formed)
+						event.description becomes description (attribute modefication)	
+					\\ \\	
+	\textbf{Operation:}	updateEvent(event:Event, command:String)
+	\\ \\
+	\textbf{References:}	User Cases:	Edit event, Delete event
+	\\ \\
+	\textbf{Pre Conditions:}
+						User must be connected to the server
+						User must be logged on to the system
+						An exitsing Event must be selected
+	\\ \\	
+	\textbf{Post Conditions:}
+						The incomming command has been executed on the target Event (instance modification)
+						
+						
 
 
 	
