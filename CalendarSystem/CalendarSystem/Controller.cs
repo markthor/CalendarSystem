@@ -7,5 +7,7 @@ namespace CalendarSystem
 {
     class Controller
     {
+        private View viewer = new View();
+        private Model model = Model.Instance;
     }
 }
