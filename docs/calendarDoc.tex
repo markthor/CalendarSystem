@@ -10,7 +10,7 @@
     Version & Date & Description \\ \hline
     Inception draft & 13/09/2012 & Added Vision, Use Cases and UML, Glossary and Supplementary Requirements	\\ \hline
     Elaboration phase & 27/09/2012 & Added Domain Model, System Sequence Diagram and Operation Contracts\\ \hline
-    Further elaboration & 04/10/2012 & Added UML Package Diagrams, another Sequence Diagram and a Discussion of our software attributes, changed Supplementary Requirements(should to shall and performance specification), added revision history, added numbering to Operation Contracts \\ \hline
+    Further elaboration & 04/10/2012 & Added UML Package Diagrams, another Sequence Diagram and a Discussion of our software attributes, changed Supplementary Requirements(should to shall and performance specification), added revision history, added numbering to Operation Contracts, added titles to models \\ \hline
     Further modelling & 11/10/2012 & TO DO AS 40	\\ \hline
     \end{tabular}
 \end{center}
@@ -270,6 +270,8 @@
 	\textbf{Supportability:}
 	Functions shall be supported with a help page. The content should be limited because the intuitiveness and limited functionality makes it needless.
 	\\ \\
+\section{Discussion of software attributes}
+	The system shall support a limited selection of functions. This decision makes it is easier to get an overview of the functionality for the novice user. This converge with our usability requirement, because users with limited knowledge will benefit from this. Security hinders usability, as it is harder to use a system that requires user authentication. The system has this trade-off because it is a minimum for supporting cloud computing. Alternatively, we could authenticate once to  
 \section{Operation Contracts}
 	\textbf{OC 1} \\
 	\textbf{Operation:}	newEvent(time:Date, description:String)
@@ -301,7 +303,11 @@
 						
 						
 \section{Models}
+\textbf{Domain Model}
+\\ \\
 \includegraphics[width=0.7\textwidth]{./domainmodel}\\[1cm] 
+\textbf{Simple sketchy sequence diagrams }
+\\ \\
 \includegraphics[width=0.7\textwidth]{./ssd}\\[1cm] 
 \includegraphics[width=0.7\textwidth]{./ssd2}\\[1cm] 
 	
