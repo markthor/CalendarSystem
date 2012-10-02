@@ -2,6 +2,19 @@
 \usepackage[pdftex]{graphicx}
 \setlength{\parindent}{0in}
 \begin{document}
+\section{Revision History}
+
+\begin{center}
+    \begin{tabular}{ | l | l | p{7cm}  | }
+    \hline
+    Version & Date & Description \\ \hline
+    Inception draft & 13/09/2012 & Added Vision, Use Cases and UML, Glossary and Supplementary Requirements	\\ \hline
+    Elaboration phase & 27/09/2012 & Added Domain Model, System Sequence Diagram and Operation Contracts\\ \hline
+    Further elaboration & 04/10/2012 & Added UML Package Diagrams, another Sequence Diagram and a Discussion of our software attributes, changed Supplementary Requirements(should to shall and performance specification), added revision history, added numbering to Operation Contracts \\ \hline
+    Further modelling & 11/10/2012 & TO DO AS 40	\\ \hline
+    \end{tabular}
+\end{center}
+
 \section{Glossery}
 	\textbf{Event}
 	Something predicted to happen at some point.
@@ -26,18 +39,16 @@
 	User
 	\\
 	\textbf{Precondition}
-	User is connected to database.
-	 User has logged on.
-	\\
-	\textbf{Postcondition}
-	\\
+		\begin{itemize}
+		\item User is connected to database.
+		\item User has logged on.
+		\\
+		\end{itemize}
 	\textbf{Main Success Scenario}
 	User gets the desired information.
 	\\
 	\textbf{Extensions}
 	No database connection returns error
-	\\
-	\textbf{Special Requirements}
 	\\
 	
 	\textbf{Name}
@@ -56,9 +67,11 @@
 	User
 	\\
 	\textbf{Precondition}
-	User is connected to database.
-	User has logged on.
-	\\
+		\begin{itemize}
+		\item User is connected to database.
+		\item User has logged on.
+		\\
+		\end{itemize}
 	\textbf{Postcondition}
 	An event has been created in the database and the view is updated
 	\\
@@ -67,8 +80,6 @@
 	\\
 	\textbf{Extensions}
 	No database connection returns error
-	\\
-	\textbf{Special Requirements}
 	\\
 	
 	\textbf{Name}
@@ -87,10 +98,12 @@
 	User
 	\\
 	\textbf{Precondition}
-	User is connected to database.
-	User has logged on.
-	User has chosen a single event in the users personal calender.
-	\\
+			\begin{itemize}
+			\item User is connected to database.
+			\item User has logged on.
+			\item User has chosen a single event in the users personal calender.
+			\\
+			\end{itemize}
 	\textbf{Postcondition}
 	the chosen event has been deleted in the database and the view is updated.
 	\\
@@ -99,8 +112,6 @@
 	\\
 	\textbf{Extensions}
 	No database connection returns error
-	\\
-	\textbf{Special Requirements}
 	\\
 	
 	\textbf{Name}
@@ -260,6 +271,7 @@
 	Functions shall be supported with a help page. The content should be limited because the intuitiveness and limited functionality makes it needless.
 	\\ \\
 \section{Operation Contracts}
+	\textbf{OC 1} \\
 	\textbf{Operation:}	newEvent(time:Date, description:String)
 	\\ \\
 	\textbf{References:}	User Cases:	Create new event
@@ -274,6 +286,7 @@
 						event is associated with a Calendar, based on the users ID (association formed)
 						event.description becomes description (attribute modefication)	
 					\\ \\	
+	\textbf{OC 2} \\
 	\textbf{Operation:}	updateEvent(event:Event, command:String)
 	\\ \\
 	\textbf{References:}	User Cases:	Edit event, Delete event
